@@ -19,7 +19,7 @@ int main(int argc,char* argv[])
 
     {
         perror("socket");
-        return 1;
+        return 1;    
     }
 
     struct sockaddr_in addr;
