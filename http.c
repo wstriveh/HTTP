@@ -3,7 +3,7 @@
 #include<netinet/in.h>
 #include<sys/socket.h>
 #include<stdlib.h>
-#include<string.h>
+#include<string.h>   
 #include<arpa/inet.h>
 
 int main(int argc,char* argv[])
